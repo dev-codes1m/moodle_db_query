@@ -1,0 +1,10 @@
+langchain
+langchain_ollama
+sqlite3
+python-dotenv
+matplotlib
+seaborn
+streamlit
+requests
+pandas
+
